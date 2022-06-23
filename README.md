@@ -5,6 +5,7 @@ Two applications: client and server. Written as a solution to test task  #1.
 **IDE - Visual Studio 2022**
 
 **Programming language - C++**
+
 ![Иллюстрация к проекту](https://github.com/parinovK/Client-Server/blob/main/Project_Run.jpg)
 ____
 How to use it?
