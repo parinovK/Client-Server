@@ -1,0 +1,3 @@
+﻿  exchangeViaSocket-Server.cpp
+C:\Users\1scnd_\source\repos\exchangeViaSocket-Server\exchangeViaSocket-Server\exchangeViaSocket-Server.cpp(58,23): warning C4244: инициализация: преобразование "uintmax_t" в "int", возможна потеря данных
+  exchangeViaSocket-Server.vcxproj -> C:\Users\1scnd_\source\repos\exchangeViaSocket-Server\x64\Debug\exchangeViaSocket-Server.exe
